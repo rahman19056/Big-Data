@@ -12,4 +12,5 @@ Link_Sumber Data:
 2. https://www.latlong.net/place/depok-west-java-indonesia-1786.html
 
 Kesimpulan:
-  Berdasarkan data yang sudah diolah memperlihatkan mengenai data mentah tidak serta merta dapat di gunakan, akan tetapi harus melewati beberapa tahap sehingga data dapat digunakan untuk memetakan letak geografis dan lokasi tertentu, hal ini ditandai dengan titik border setelah di visualisasikan.
+
+  Berdasarkan data yang sudah diolah memperlihatkan mengenai data mentah tidak serta merta dapat di gunakan, akan tetapi harus melewati beberapa tahap sehingga data dapat digunakan untuk memetakan letak geografis dan lokasi tertentu, hal ini ditandai dengan titik border setelah di visualisasikan. Selain itu, dalam mengolah data dilakukan dalam 3 tahap yaitu mendapatkan data yang ingin kita olah (baik data yang sudah tersedia/data yang dibuat sendiri), membersihkan data menggunakan data mentah yang sudah kita dapatkan, dan memadukan data sehingga dapat menampilkan output yang kita inginkan.
